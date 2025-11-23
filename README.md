@@ -21,3 +21,10 @@ Hospital Management System – Expanded Product Backlog
 
 <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/d597a3b2-eac5-4b2d-b583-28426fd97aa5" />
 
+Hotel Management System – Expanded Product Backlog
+
+<img width="634" height="721" alt="image" src="https://github.com/user-attachments/assets/f98a5cce-fa5c-4dee-a799-e4ffe0392f18" />
+<img width="584" height="670" alt="image" src="https://github.com/user-attachments/assets/66f2834d-90a4-4c51-9b5b-9ffccd53252a" />
+
+<img width="1140" height="710" alt="image" src="https://github.com/user-attachments/assets/193e8538-e181-4ceb-ab4d-66d2a065d112" />
+

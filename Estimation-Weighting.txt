@@ -1,0 +1,27 @@
+4. Weighting and Estimation 
+
+4.1 Story Point Estimation 
+
+Story points measure complexity and effort. They consider: 
+
+Technical difficulty 
+
+Time required 
+
+Risks and uncertainty 
+
+4.2 Estimation Techniques 
+
+Planning Poker: Team members vote using cards 
+
+T-shirt Sizing: XS, S, M, L, XL 
+
+Fibonacci Sequence: 1, 2, 3, 5, 8, 13... 
+
+4.3 Weighting by Complexity, Priority, Business Value 
+
+Assign story points based on complexity 
+
+Set priority (High, Medium, Low) 
+
+Business value based on impact on user or revenue 

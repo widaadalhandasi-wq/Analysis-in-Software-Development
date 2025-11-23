@@ -1,0 +1,67 @@
+1. The Analysis Phase in Software Development 
+
+1.1 Definition and Importance 
+
+The Analysis Phase is a critical stage of the Software Development Life Cycle (SDLC) where project requirements are gathered, analyzed, refined, and documented. Its primary goal is to understand the business problem, user needs, and system expectations before development begins. This phase sets the foundation for design, development, and testing. 
+
+1.2 Sub-steps of the Analysis Phase 
+
+Requirement Elicitation 
+
+Conduct interviews, surveys, workshops, and observations. 
+
+Engage stakeholders: users, managers, and technical experts. 
+
+Requirement Analysis 
+
+Clarify conflicting, incomplete, or ambiguous requirements. 
+
+Categorize requirements: functional, non-functional, business, and system. 
+
+Requirement Documentation 
+
+Document requirements using SRS (Software Requirements Specification). 
+
+Include use cases, diagrams, workflow charts, and business rules. 
+
+Requirement Validation 
+
+Verify correctness, completeness, feasibility, and consistency. 
+
+Validate with stakeholders via walkthroughs or prototyping. 
+
+Approval and Sign-off 
+
+Finalize requirements and obtain stakeholder approval. 
+
+1.3 Deliverables and Outcomes 
+
+SRS Document 
+
+Use case diagrams and activity diagrams 
+
+Business requirements document (BRD) 
+
+Workflow and process models 
+
+Requirement traceability matrix (RTM) 
+
+1.4 Best Practices and Challenges 
+
+Best Practices: 
+
+Engage all stakeholders early. 
+
+Document clearly and concisely. 
+
+Continuously validate with users. 
+
+Use visual diagrams. 
+
+Common Challenges: 
+
+Changing requirements (scope creep). 
+
+Miscommunication between users and analysts. 
+
+Incomplete or ambiguous requirements. 

@@ -1,0 +1,52 @@
+5. Complete Banking System Example 
+
+5.1 Product Backlog 
+
+A Product Backlog is an ordered and continuously evolving list of features, enhancements, bug fixes, and technical tasks required to build a product.
+It acts as the single source of truth for everything the Scrum team needs to work on.
+
+The Product Owner manages and prioritizes the backlog based on:
+
+Business value
+
+Customer needs
+
+Technical importance
+
+Risks
+
+Market changes
+
+5.2 Example User Stories with Acceptance Criteria 
+
+Account Creation 
+
+Acceptance Criteria: 
+
+User must provide valid personal info 
+
+System must validate national ID 
+
+Account number must be auto-generated 
+
+Money Transfer 
+
+Acceptance Criteria: 
+
+User enters amount and recipient account 
+
+System verifies sufficient balance 
+
+Confirmation notification is sent 
+
+Loan Request 
+
+Acceptance Criteria: 
+
+User submits required documents 
+
+System evaluates loan eligibility 
+
+User receives approval or rejection message 
+
+ 

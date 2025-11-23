@@ -1,0 +1,14 @@
+🏨 Hotel Management System – Overview
+1. Purpose
+
+The Hotel Management System (HMS) automates hotel operations, improving efficiency, guest experience, and staff productivity. It manages reservations, billing, room service, events, and guest communications in a single platform.
+
+Key Goals:
+
+Simplify booking and check-in/check-out processes
+
+Optimize room utilization and staff allocation
+
+Provide seamless guest services and notifications
+
+Streamline billing, loyalty programs, and reporting

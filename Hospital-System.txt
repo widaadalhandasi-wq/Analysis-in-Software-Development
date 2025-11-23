@@ -1,0 +1,15 @@
+✅ Hospital Management System 
+
+The Hospital Management System (HMS) is designed to automate and streamline hospital operations, improve patient care, and optimize administrative workflows. It covers clinical, administrative, and financial functions in one unified system.
+
+Key Goals:
+
+Improve patient experience and accessibility
+
+Enable doctors and staff to efficiently manage records and schedules
+
+Automate billing, inventory, and reporting processes
+
+Ensure data security and compliance with medical regulations
+
+– Product Backlog

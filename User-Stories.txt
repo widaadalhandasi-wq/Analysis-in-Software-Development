@@ -1,0 +1,31 @@
+3. User Stories 
+
+3.1 Definition 
+
+A user story is a short, simple description of a feature told from the perspective of the user. 
+
+Format: 
+
+As a [user type], I want [goal] so that [benefit]. 
+
+3.2 Writing Effective User Stories 
+
+Keep them small and clear 
+
+Focus on user needs 
+
+Avoid technical jargon 
+
+Ensure testability 
+
+3.3 Acceptance Criteria 
+
+Acceptance criteria define the boundaries and expected outcomes of a user story. 
+
+They help: 
+
+Ensure clarity for developers 
+
+Define testing conditions 
+
+Avoid misunderstandings 
